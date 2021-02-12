@@ -5,17 +5,17 @@
  # installations
 
 
- `npm i shadowizard --save`
+ `npm i ankurshadowizard --save`
 
 
  then ... 
 
 
- import {shadowizard} from 'shadowizard';
+ import {ankurshadowizard} from 'ankurshadowizard';
 
 
 
- shadowizard({
+ ankurshadowizard({
      shadow:'hard'
  })
 

@@ -1,5 +1,5 @@
-function shadowizard(value){
-let img = document.querySelectorAll('.shadowizard');
+function ankurshadowizard(value){
+let img = document.querySelectorAll('.ankurshadowizard');
 if (value.shadow == 'hard') 
     value.shadow = '0px'
 else
@@ -7,4 +7,4 @@ else
   console.log('ankur working ')
 }
 
-module.exports.shadowizard = shadowizard;
+module.exports.ankurshadowizard = ankurshadowizard;
